@@ -78,7 +78,7 @@ duffle-bot/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/duffle-bot.git
+git clone https://github.com/0x-pycode/duffle-bot.git
 cd duffle-bot
 
 python -m venv .venv
