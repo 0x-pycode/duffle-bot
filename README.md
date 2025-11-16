@@ -162,7 +162,7 @@ Example:
 ]
 ```
 
-Export cookies from your browser using any cookie extension.
+Export cookies from your browser using any cookie extension. For example: https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde
 
 ---
 
