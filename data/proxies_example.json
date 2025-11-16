@@ -1,0 +1,14 @@
+{
+  "ACC_1": {
+    "proxy_host": "123.123.123.123",
+    "proxy_port": 8000,
+    "login": "username_1",
+    "passwd": "password_1"
+  },
+  "ACC_2": {
+    "proxy_host": "111.22.33.44",
+    "proxy_port": 8080,
+    "login": "username_2",
+    "passwd": "password_2"
+  }
+}

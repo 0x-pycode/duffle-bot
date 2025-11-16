@@ -1,0 +1,52 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter / VSCode / PyCharm stuff
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Project-specific
+# -----------------------
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Twitter cookies (private)
+data/twitter_cookies/
+data/twitter_cookies/*.json
+
+# Private data
+data/emails.json
+data/proxies.json
+data/referral_codes.txt
+
+# Backup / temp JSON files
+*.json.bak
+*.tmp
+
+# Compiled/temporary folders
+build/
+dist/
